@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh1708&show_icons=true&locale=en" alt="santhosh1708" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh1708&theme=default)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santhosh1708&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 
 <!--
