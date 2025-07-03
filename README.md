@@ -2,22 +2,23 @@
 
 🔹 iOS Developer | Swift & SwiftUI  
 🔹 Ex-QA turned mobile app developer  
-🔹 Currently learning **Flutter** to build cross-platform apps 🚀  
-🔹 Passionate about clean architecture, beautiful UI, and continuous learning  
+🔹 Building native and cross-platform apps using **SwiftUI** and **Flutter**  
+🔹 Passionate about clean architecture, beautiful UI, and performance-focused apps  
 
 ---
 
 ### 💼 Projects & Interests
-- 📱 Building modern, scalable mobile apps
-- 🧪 Automation & Quality-first mindset
-- 🎨 Focus on UI/UX and performance
-- 🌱 Exploring Dart & Flutter
+- 📱 Mobile app development (iOS & cross-platform)  
+- 🧪 Quality-first development mindset  
+- 🎨 UI/UX-centric approach to building apps  
+- 🛠 Exploring tools that enhance performance and scalability  
 
 ---
 
 ### 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/santhosh-venketraman-3b2b31184/)  
+- [LinkedIn](https://linkedin.com/in/santhosh-venketraman-3b2b31184/)  
 - 📬 Reach me at: `sandy17santhosh@outlook.com`
+
 
 
 
