@@ -20,6 +20,11 @@
 - 📬 Reach me at: `sandy17santhosh@outlook.com`
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhosh1708&show_icons=true&locale=en&layout=compact" alt="santhosh1708" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh1708&show_icons=true&locale=en" alt="santhosh1708" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh1708&" alt="santhosh1708" /></p>
 
 
 <!--
